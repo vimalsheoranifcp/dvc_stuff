@@ -1,0 +1,6 @@
+outs:
+- md5: 2874120c8595a1ff9286a170c8a8ae40.dir
+  nfiles: 1
+  hash: md5
+  path: logistic_regression
+  size: 969
